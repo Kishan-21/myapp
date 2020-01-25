@@ -1,6 +1,5 @@
 
 Original file is located at
-    https://colab.research.google.com/drive/1leNUHYR5Ccxe0Fyr6r_fuVEackTD8k5P
 """
 
 with open("Software1.txt", "a") as f:
